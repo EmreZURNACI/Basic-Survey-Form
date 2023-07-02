@@ -1,0 +1,30 @@
+.bg-antiquewhite {
+    background-color: antiquewhite !important;
+}
+
+.border-black {
+    border-color: black !important;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-weight: 900;
+}
+
+p {
+    font-weight: 700;
+}
+
+label {
+    font-weight: 500;
+}
+
+.fw-bolder {
+    font-weight: 900 !important;
+}
+.bg-container{
+    background-color: blanchedalmond;
+}
